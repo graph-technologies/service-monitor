@@ -67,14 +67,14 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_PAT || github.token }}
         run: |
-          workflow_file="graphs.yml"
+          workflow_id=".github/workflows/graphs.yml"
           repo="${{ github.repository }}"
           # Query workflow state
-          state=$(curl -s -H "Authorization: token $GH_TOKEN" "https://api.github.com/repos/$repo/actions/workflows/$workflow_id" | jq -r .state)
+          state=$(curl -s -H "Authorization: Bearer $GH_TOKEN" "https://api.github.com/repos/$repo/actions/workflows/$workflow_id" | jq -r .state)
           if [ "$state" != "active" ]; then
             echo "Enabling workflow $workflow_id"
-            curl -s -X PUT -H "Authorization: token $GH_TOKEN" "https://api.github.com/repos/$repo/actions/workflows/$workflow_id/enable"
-            sleep 1
+            curl -s -X PUT -H "Authorization: Bearer $GH_TOKEN" "https://api.github.com/repos/$repo/actions/workflows/$workflow_id/enable"
+            sleep 3
           else
             echo "Workflow $workflow_id already active"
           fi
