@@ -5,6 +5,17 @@ repo: service-status # The name of this repository
 sites:
   - name: Graph Technologies
     url: https://graphtechnologies.xyz
+  - name: Graph Technologies - Contact
+    url: https://graphtechnologies.xyz/contact
+  - name: Clara
+    url: https://clara.graphtechnologies.xyz
+  - name: Graph Technologies GitHub
+    url: https://github.com/graph-technologies
+  - name: Graph Technologies LinkedIn
+    url: https://www.linkedin.com/company/graph-technologies
+    expectedStatusCodes:
+      - 200
+      - 999
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
