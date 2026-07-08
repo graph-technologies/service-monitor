@@ -25,15 +25,22 @@ jobs:
   release:
     name: Build
     runs-on: ubuntu-latest
+    env:
+      GH_PAT: ${{ secrets.GH_PAT }}
     steps:
+      - name: Skip update when GH_PAT is not configured
+        if: ${{ env.GH_PAT == '' }}
+        run: echo "GH_PAT secret is not configured; skipping template update."
       - name: Checkout
+        if: ${{ env.GH_PAT != '' }}
         uses: actions/checkout@v4
         with:
           ref: ${{ github.head_ref }}
-          token: ${{ secrets.GH_PAT || github.token }}
+          token: ${{ env.GH_PAT }}
       - name: Update template
+        if: ${{ env.GH_PAT != '' }}
         uses: upptime/uptime-monitor@master
         with:
           command: "update-template"
         env:
-          GH_PAT: ${{ secrets.GH_PAT || github.token }}
+          GH_PAT: ${{ env.GH_PAT }}
