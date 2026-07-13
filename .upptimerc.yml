@@ -2,6 +2,10 @@
 owner: graph-technologies # Your GitHub organization or username, where this repository lives
 repo: service-monitor # The name of this repository
 
+git:
+  commitUser: "github-actions[bot]"
+  commitEmail: "41898282+github-actions[bot]@users.noreply.github.com"
+
 sites:
   - name: Graph Technologies
     url: https://graphtechnologies.xyz
@@ -25,7 +29,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Graph Technologies Status
   introTitle: "**Graph Technologies** Service Status"
-  introMessage: This status page monitors the availability and performance of Graph Technologies services using **real-time** data from our [GitHub repository](https://github.com/graph-technologies/service-status).
+  introMessage: This status page monitors the availability and performance of Graph Technologies services using **real-time** data from our [GitHub repository](https://github.com/graph-technologies/service-monitor).
   navbar:
     - title: Status
       href: /
