@@ -16,7 +16,7 @@ sites:
   - name: Graph Technologies GitHub
     url: https://github.com/graph-technologies
   - name: Graph Technologies LinkedIn
-    url: https://www.linkedin.com/company/graph-technologies
+    url: https://www.linkedin.com/company/graph-technologies-dk
     expectedStatusCodes:
       - 200
       - 999
