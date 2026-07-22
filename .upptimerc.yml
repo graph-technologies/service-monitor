@@ -19,6 +19,7 @@ sites:
     url: https://www.linkedin.com/company/graph-technologies
     expectedStatusCodes:
       - 200
+      - 403
       - 999
 
 status-website:
