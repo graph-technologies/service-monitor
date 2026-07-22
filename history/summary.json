@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 130,
-    "timeWeek": 193,
-    "timeMonth": 243,
-    "timeYear": 273,
+    "time": 274,
+    "timeDay": 286,
+    "timeWeek": 189,
+    "timeMonth": 250,
+    "timeYear": 274,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 119,
-    "timeDay": 184,
-    "timeWeek": 210,
-    "timeMonth": 242,
-    "timeYear": 119,
+    "time": 126,
+    "timeDay": 253,
+    "timeWeek": 187,
+    "timeMonth": 244,
+    "timeYear": 126,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 311,
-    "timeDay": 549,
-    "timeWeek": 434,
-    "timeMonth": 386,
-    "timeYear": 311,
+    "time": 316,
+    "timeDay": 409,
+    "timeWeek": 407,
+    "timeMonth": 390,
+    "timeYear": 316,
     "dailyMinutesDown": {}
   },
   {
@@ -64,18 +64,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 959,
-    "timeDay": 469,
-    "timeWeek": 521,
-    "timeMonth": 584,
-    "timeYear": 959,
+    "time": 937,
+    "timeDay": 543,
+    "timeWeek": 479,
+    "timeMonth": 577,
+    "timeYear": 937,
     "dailyMinutesDown": {
       "2026-06-08": 98
     }
   },
   {
     "name": "Graph Technologies LinkedIn",
-    "url": "https://www.linkedin.com/company/graph-technologies",
+    "url": "https://www.linkedin.com/company/graph-technologies-dk",
     "icon": "https://icons.duckduckgo.com/ip3/www.linkedin.com.ico",
     "slug": "graph-technologies-linked-in",
     "status": "up",
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 292,
-    "timeWeek": 243,
-    "timeMonth": 255,
-    "timeYear": 302,
+    "time": 312,
+    "timeDay": 487,
+    "timeWeek": 290,
+    "timeMonth": 290,
+    "timeYear": 312,
     "dailyMinutesDown": {}
   }
 ]
