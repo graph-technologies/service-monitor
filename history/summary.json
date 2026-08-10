@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 276,
-    "timeDay": 0,
-    "timeWeek": 367,
-    "timeMonth": 261,
-    "timeYear": 276,
+    "time": 275,
+    "timeDay": 220,
+    "timeWeek": 338,
+    "timeMonth": 260,
+    "timeYear": 275,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 164,
-    "timeDay": 0,
-    "timeWeek": 294,
-    "timeMonth": 239,
-    "timeYear": 164,
+    "time": 165,
+    "timeDay": 218,
+    "timeWeek": 279,
+    "timeMonth": 238,
+    "timeYear": 165,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 328,
-    "timeDay": 0,
-    "timeWeek": 699,
-    "timeMonth": 369,
+    "timeDay": 349,
+    "timeWeek": 629,
+    "timeMonth": 368,
     "timeYear": 328,
     "dailyMinutesDown": {}
   },
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 871,
-    "timeDay": 0,
-    "timeWeek": 766,
-    "timeMonth": 658,
-    "timeYear": 871,
+    "time": 868,
+    "timeDay": 693,
+    "timeWeek": 751,
+    "timeMonth": 659,
+    "timeYear": 868,
     "dailyMinutesDown": {
       "2026-06-08": 98
     }
@@ -78,17 +78,19 @@
     "url": "https://www.linkedin.com/company/graph-technologies-dk",
     "icon": "https://icons.duckduckgo.com/ip3/www.linkedin.com.ico",
     "slug": "graph-technologies-linked-in",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 449,
-    "timeDay": 75,
-    "timeWeek": 638,
-    "timeMonth": 554,
-    "timeYear": 449,
-    "dailyMinutesDown": {}
+    "time": 447,
+    "timeDay": 280,
+    "timeWeek": 565,
+    "timeMonth": 543,
+    "timeYear": 447,
+    "dailyMinutesDown": {
+      "2026-08-10": 3
+    }
   }
 ]
