@@ -28,10 +28,6 @@ With [Upptime](https://upptime.js.org), you can get automated incident responses
 
 [Graph Technologies](https://graphtechnologies.xyz) is a technology company focused on building innovative software solutions. We develop tools and platforms that help teams work smarter, including **Clara**, our AI-powered assistant.
 
-- 🌐 Website: [graphtechnologies.xyz](https://graphtechnologies.xyz)
-- 💼 LinkedIn: [Graph Technologies](https://www.linkedin.com/company/graph-technologies-dk)
-- 🐙 GitHub: [github.com/graph-technologies](https://github.com/graph-technologies)
-
 ## 📬 Contact
 
 Have a question, found an issue, or want to get in touch? Reach out to us through any of the following channels:
