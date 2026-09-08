@@ -22,6 +22,8 @@ sites:
       - 403
       - 999
 
+secrets: [] # Explicitly pass no repository/org secrets to workflows unless needed
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
