@@ -78,21 +78,21 @@
     "url": "https://www.linkedin.com/company/graph-technologies-dk",
     "icon": "https://icons.duckduckgo.com/ip3/www.linkedin.com.ico",
     "slug": "graph-technologies-linked-in",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 599,
-    "timeDay": 415,
-    "timeWeek": 880,
-    "timeMonth": 792,
-    "timeYear": 599,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "71.75%",
+    "uptimeWeek": "95.96%",
+    "uptimeMonth": "99.07%",
+    "uptimeYear": "99.76%",
+    "time": 600,
+    "timeDay": 520,
+    "timeWeek": 863,
+    "timeMonth": 790,
+    "timeYear": 600,
     "dailyMinutesDown": {
       "2026-08-10": 3,
       "2026-08-11": 52,
-      "2026-10-07": 0
+      "2026-10-07": 407
     }
   }
 ]
